@@ -49,4 +49,4 @@ python burp_adb_bridge.py stop
 
 ## Acknowledgements 
 Core CA injection and ADB tunnel techniques inspired by the excellent open-source work of [HTTP Toolkit](https://httptoolkit.com/).
-This tool was developed while on a penetration test for {Sencode Cyber Security}(https://sencode.co.uk/penetration-testing/mobile-application-penetration-testing/)
+This tool was developed while on a penetration test for [Sencode Cyber Security](https://sencode.co.uk/penetration-testing/mobile-application-penetration-testing/)
